@@ -2,4 +2,4 @@ Aprendiendo de Git y GitHub.
 
 Soy Jairo de Perú y tengo 31 años.
 
-Estudio Ingeniería de Sistemas  Informática.
+Estudio Ingeniería de Sistemas  Informática. Soy programador.
